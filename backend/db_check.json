@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "695398805af4564069da802e",
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2b$10$v0lTxD0vVC6ZeRj5gFiQ9OtHfiRUprh80ctLnXfypYZC9xTa2zUeq",
+    "role": "user",
+    "walletBalance": 0,
+    "createdAt": "2025-12-30T09:16:48.888Z",
+    "updatedAt": "2025-12-31T09:15:51.191Z",
+    "__v": 0,
+    "surplusEnergy": 1.74
+  },
+  {
+    "_id": "6954b85d7c8dcf3dcd7a7a53",
+    "name": "Demo",
+    "email": "demo@example.com",
+    "password": "$2b$10$CkLGYIsD5A8Z901scl9xfODEyQpbLXc1OkcKjRxCpsftpyLL.YCwK",
+    "role": "user",
+    "walletBalance": 0,
+    "createdAt": "2025-12-31T05:45:01.659Z",
+    "updatedAt": "2025-12-31T09:15:51.316Z",
+    "__v": 0,
+    "surplusEnergy": 1.56
+  },
+  {
+    "_id": "6954e7298d2d3e8eafbfd3ff",
+    "name": "Person",
+    "email": "person@example.com",
+    "password": "$2b$10$pcZ1s3mbr/DJunXM5xTJPO5e2lkHeOl.yKPM9X4pFatuonZig0jt.",
+    "role": "user",
+    "walletBalance": 0,
+    "surplusEnergy": 1.75,
+    "createdAt": "2025-12-31T09:04:41.765Z",
+    "updatedAt": "2025-12-31T09:15:51.380Z",
+    "__v": 0
+  }
+]

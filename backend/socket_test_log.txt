@@ -1,0 +1,10 @@
+--- Test Started at 2025-12-31T09:17:04.294Z ---
+Connected to server
+Data Received: {"userId":"6954b85d7c8dcf3dcd7a7a53","timestamp":"2025-12-31T09:17:04.379Z","generation":3.54,"consumption":1.21,"surplus":2.33,"_id":"6954ea105de9d52bf1154a36","__v":0}
+Data Received: {"userId":"6954e7298d2d3e8eafbfd3ff","timestamp":"2025-12-31T09:17:04.444Z","generation":3.83,"consumption":1.68,"surplus":2.15,"_id":"6954ea105de9d52bf1154a39","__v":0}
+Data Received: {"userId":"695398805af4564069da802e","timestamp":"2025-12-31T09:17:09.295Z","generation":3.42,"consumption":2.12,"surplus":1.3,"_id":"6954ea155de9d52bf1154a3d","__v":0}
+Data Received: {"userId":"6954b85d7c8dcf3dcd7a7a53","timestamp":"2025-12-31T09:17:09.357Z","generation":3.46,"consumption":2.16,"surplus":1.3,"_id":"6954ea155de9d52bf1154a40","__v":0}
+Data Received: {"userId":"6954e7298d2d3e8eafbfd3ff","timestamp":"2025-12-31T09:17:09.426Z","generation":4.15,"consumption":1.46,"surplus":2.69,"_id":"6954ea155de9d52bf1154a43","__v":0}
+Data Received: {"userId":"695398805af4564069da802e","timestamp":"2025-12-31T09:17:14.302Z","generation":3.63,"consumption":1.27,"surplus":2.36,"_id":"6954ea1a5de9d52bf1154a47","__v":0}
+Data Received: {"userId":"6954b85d7c8dcf3dcd7a7a53","timestamp":"2025-12-31T09:17:14.365Z","generation":3.59,"consumption":2.19,"surplus":1.4,"_id":"6954ea1a5de9d52bf1154a4a","__v":0}
+Data Received: {"userId":"6954e7298d2d3e8eafbfd3ff","timestamp":"2025-12-31T09:17:14.442Z","generation":4.32,"consumption":1.35,"surplus":2.97,"_id":"6954ea1a5de9d52bf1154a4d","__v":0}
